@@ -9,12 +9,15 @@ Welcome to the **TFTUnlock 2024** tutorial! Follow this step-by-step guide to se
 </p>
 
 ## Features:
-- Unlock bootloader for multiple devices.
 - Support for Xiaomi, Samsung, Oppo, Vivo, and many other brands.
-- FRP removal (Factory Reset Protection).
-- RockChip and Archos device support.
-- Fastboot and Recovery options available.
-
+- Unlock Screen: You can remove all types of screen locks, including PIN, Pattern, and Face locks from Android. It can also bypass passcodes and the Hello screen on Apple devices.
+- Bypass FRP Lock: After the hard reset, you can erase the Google FRP lock from used phones.
+- Factory Reset phone: You can factory reset your phone and erase all of its data without needing verification.
+- Unlock/Relock Bootloader: It can unlock the bootloader to install any firmware and allow advanced customization. Then, you can relock the bootloader using the TFTUnlock Tool.
+- Erase MiCloud: You can remove MiCloud from Xiaomi devices without logging in with your ID.
+- Repair IMEI: You can fix a corrupted or overwritten IMEI identifier using the TFT tool.
+- Flash Firmware: It can both read and write Flash. This way, you can install custom software on your phone.
+- More Functionalities: Fix Wi-Fi MAC, S/N, Board S/N, Vendor code, Country code, and Bluetooth address. It can also remove Oppo ID.
 
 ## Important Notice ⚠️
 
