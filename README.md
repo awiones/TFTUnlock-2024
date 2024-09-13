@@ -63,8 +63,6 @@ After installing **TFTUnlock**:
 2. Click **Login** to finalize the setup.
 3. You're all set! Enjoy using the TFT module.
 
----
-
 ### Troubleshooting
 
 If you encounter issues, try the following:
@@ -82,6 +80,7 @@ If you encounter issues, try the following:
 | Free to download, increasing accessibility.                                             | Customer support may not be very responsive.                                     |
 | Automatically resolves software issues without requiring manual input.                  | Only compatible with Windows operating systems.                                  |
 
+---
 
 ### Disclaimer
 
