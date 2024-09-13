@@ -72,6 +72,69 @@ If you encounter issues, try the following:
 - Ensure your antivirus is disabled before proceeding with the installation.
 - Double-check that all files from `TFTCrack.rar` were properly copied to `C:\TFTUnlock`.
 - Make sure your system date is set to 2023 or earlier before running the server.
+## Pros and Cons
+
+<table>
+  <tr>
+    <td>
+
+      ### Pros
+
+      <table>
+        <tr>
+          <th>Feature</th>
+          <th>Description</th>
+        </tr>
+        <tr>
+          <td>One-stop solution for Android software issues</td>
+          <td>It is the one-stop solution to handle all types of Android software issues.</td>
+        </tr>
+        <tr>
+          <td>Broad range of phone models and brands</td>
+          <td>It supports a broad range of phone models and brands.</td>
+        </tr>
+        <tr>
+          <td>Free download</td>
+          <td>Free download, which makes it accessible to a broader audience.</td>
+        </tr>
+        <tr>
+          <td>Automatic issue detection and handling</td>
+          <td>It automatically detects and handles software issues without manual steps.</td>
+        </tr>
+      </table>
+
+    </td>
+    <td>
+
+      ### Cons
+
+      <table>
+        <tr>
+          <th>Drawback</th>
+          <th>Description</th>
+        </tr>
+        <tr>
+          <td>Difficult for less techie users</td>
+          <td>Professional grade features that make it difficult to use by less techie users.</td>
+        </tr>
+        <tr>
+          <td>Antivirus program interference</td>
+          <td>You need to turn off your Antivirus program, which raises safety concerns.</td>
+        </tr>
+        <tr>
+          <td>Lack of active customer support</td>
+          <td>A lack of active customer support can significantly limit the user experience.</td>
+        </tr>
+        <tr>
+          <td>Windows PC or computer only</td>
+          <td>You can only download it on a Windows PC or computer.</td>
+        </tr>
+      </table>
+
+    </td>
+  </tr>
+</table>
+
 
 ### Disclaimer
 
