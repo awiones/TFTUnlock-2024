@@ -2,6 +2,20 @@
 
 Welcome to the **TFTUnlock 2024** tutorial! Follow this step-by-step guide to set up the TFT module on your device.
 
+## Preview
+
+<p align="center">
+  <img src="prewview.PNG" alt="TFTUnlock 2024 Preview" width="600">
+</p>
+
+## Features:
+- Unlock bootloader for multiple devices.
+- Support for Xiaomi, Samsung, Oppo, Vivo, and many other brands.
+- FRP removal (Factory Reset Protection).
+- RockChip and Archos device support.
+- Fastboot and Recovery options available.
+
+
 ## Important Notice ⚠️
 
 Before proceeding, make sure you have disabled or uninstalled any antivirus software on your system. Due to the nature of some files being cracked versions, antivirus software might flag them as false positives.
