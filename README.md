@@ -5,7 +5,7 @@ Welcome to the **TFTUnlock 2024** tutorial! Follow this step-by-step guide to se
 ## Preview
 
 <p align="center">
-  <img src="prewview.PNG" alt="TFTUnlock 2024 Preview" width="600">
+  <img src="prewview.PNG" alt="TFTUnlock 2024 Preview" width="800">
 </p>
 
 ## Features:
