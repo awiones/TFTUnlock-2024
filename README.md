@@ -1,4 +1,4 @@
-# TFTUnlock 2024 - Setup Guide
+# TFTUnlock 2024 - Setup Guide (windows)
 
 Welcome to the **TFTUnlock 2024** tutorial! Follow this step-by-step guide to set up the TFT module on your device.
 
