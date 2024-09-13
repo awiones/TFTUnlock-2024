@@ -71,6 +71,30 @@ If you encounter issues, try the following:
 - Double-check that all files from `TFTCrack.rar` were properly copied to `C:\TFTUnlock`.
 - Make sure your system date is set to 2023 or earlier before running the server.
 
+## Notes on How to Use TFTUnlock
+
+1. **Preparing Your Device**
+   - Connect your Android device to your PC using a USB cable.
+   - Ensure that USB debugging is enabled on your Android device. You can enable this in the Developer Options.
+
+2. **Launching TFTUnlock**
+   - Open TFTUnlock on your PC.
+   - The software should automatically detect your connected device.
+
+3. **Using the Software**
+   - Select the type of issue you want to address from the available options.
+   - Follow the prompts to let TFTUnlock analyze and resolve the issue.
+   - You may need to follow additional instructions based on the specific issue being addressed.
+
+4. **Post-Use Recommendations**
+   - Restart your device after the issue has been resolved to ensure all changes take effect.
+   - Re-enable your antivirus software if it was turned off during the process.
+
+5. **Troubleshooting**
+   - If TFTUnlock does not detect your device, ensure that your USB drivers are up to date.
+   - For persistent issues, consult the FAQ section on the official website or seek assistance from online forums.
+
+
 ## About the TFT Unlock
 
 | **Advantages**                                                                          | **Disadvantages**                                                                |
