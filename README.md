@@ -73,24 +73,14 @@ If you encounter issues, try the following:
 - Double-check that all files from `TFTCrack.rar` were properly copied to `C:\TFTUnlock`.
 - Make sure your system date is set to 2023 or earlier before running the server.
 
- ## Pros
+## About the TFT Unlock
 
-| Feature                                                                 | Description                                                                  |
-|-------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| One-stop solution for Android software issues                           | It is the one-stop solution to handle all types of Android software issues.  |
-| Broad range of phone models and brands                                  | It supports a broad range of phone models and brands.                        |
-| Free download                                                           | Free download, which makes it accessible to a broader audience.              |
-| Automatic issue detection and handling                                  | It automatically detects and handles software issues without manual steps.   |
-
-## Cons
-
-| Drawback                                                                 | Description                                                                     |
-|--------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| Difficult for less techie users                                          | Professional grade features that make it difficult to use by less techie users. |
-| Antivirus program interference                                           | You need to turn off your Antivirus program, which raises safety concerns.      |
-| Lack of active customer support                                          | A lack of active customer support can significantly limit the user experience.  |
-| Windows PC or computer only                                              | You can only download it on a Windows PC or computer.                           |
-
+| **Advantages**                                                                          | **Disadvantages**                                                                |
+|-----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| Handles a wide range of Android software problems in one place.                         | Some advanced features may be complex for less experienced users.                |
+| Supports numerous phone models and brands.                                              | Antivirus software needs to be turned off, which may create security concerns.   |
+| Free to download, increasing accessibility.                                             | Customer support may not be very responsive.                                     |
+| Automatically resolves software issues without requiring manual input.                  | Only compatible with Windows operating systems.                                  |
 
 
 ### Disclaimer
