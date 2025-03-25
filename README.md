@@ -36,6 +36,7 @@ First, download the repository containing all necessary files.
 
 1. Navigate to the downloaded folder.
 2. Locate the file `TFTUnlock-2024-v4.6.4.4.exe` and install it by following the on-screen instructions.
+3. The password is "TFT"
 
 ### 3. Replace Files
 
