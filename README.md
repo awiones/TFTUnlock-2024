@@ -8,6 +8,13 @@ Welcome to the **TFTUnlock 2024** tutorial! Follow this step-by-step guide to se
   <img src="prewview.PNG" alt="TFTUnlock 2024 Preview" width="800">
 </p>
 
+### Video Tutorial
+<p align="center">
+  <a href="https://youtu.be/VG7nafRghIM?si=lJK3S2YxPLldY_n9" target="_blank">
+    <img src="http://img.youtube.com/vi/VG7nafRghIM/0.jpg" alt="TFTUnlock 2024 Video Tutorial" width="600">
+  </a>
+</p>
+
 ## Features:
 - Support for Xiaomi, Samsung, Oppo, Vivo, and many other brands.
 - Unlock Screen: You can remove all types of screen locks, including PIN, Pattern, and Face locks from Android. It can also bypass passcodes and the Hello screen on Apple devices.
@@ -51,7 +58,7 @@ After installing **TFTUnlock**:
 ### 4. Extract and Configure the TFT Server
 
 1. Extract the `TFT SERVER.rar` file from the repository.
-2. Open your computer’s date and time settings.
+2. Open your computer's date and time settings.
 3. Change the year to **2023** (or any year before 2024) to make the server work properly.
 
 ### 5. Final Step
